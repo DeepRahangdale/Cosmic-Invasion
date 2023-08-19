@@ -1,6 +1,6 @@
 # Cosmic Invasion
 
-![Project Logo](link-to-your-logo.png) <!-- If applicable -->
+![Project Logo](C:\Users\user1\invaders\invaders.jfif) <!-- If applicable -->
 
 Cosmic Invasion is an exciting space-themed game developed in Rust. Embark on a journey through the cosmos, battling alien invaders and exploring uncharted territories.
 
